@@ -1,5 +1,6 @@
 {
 	"author":"Azzumar",
+	"description": "A web app that teaches people to the ability to make meaningful contributions to software project",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -9,7 +10,7 @@
 		"start": "node server.js"
 	},
 	"engines": {
-		"node": "14.x"
+		"node": "16.15.1"
 	},
 	"repository": {
 		"type": "git",
